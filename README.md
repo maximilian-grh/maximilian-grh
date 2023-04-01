@@ -1,7 +1,7 @@
 # 💫 About Me:
-☕️ Coffee Lover
-🙋‍♂️ 22 years old
-📚 Next Goal: TypeScript
+☕️ Coffee Lover <br>
+🙋‍♂️ 22 years old <br>
+📚 Next Goal: TypeScript <br>
 📍 Austria, Vienna
 
 
