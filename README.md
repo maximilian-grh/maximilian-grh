@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Admin-Dashboard<br>📚 I’m learning TypeScript<br>☕️ Coffee-Lover
+☕️ Coffee-Lover
 
 
 # 💻 Tech Stack:
