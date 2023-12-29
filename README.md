@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕️ Coffee Lover <br>🙋‍♂️ 23 years old <br>📚 Next Goal: C# <br>📍 Austria, Vienna
+☕️ Coffee Lover <br>🙋‍♂️ 23 years old <br>📚 Next Goal: Rust <br>📍 Austria, Vienna
 
 
 # 💻 Tech Stack:
